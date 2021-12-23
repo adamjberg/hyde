@@ -1,0 +1,13 @@
+{
+  "name": "hyde",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "hyde": "./bin/hyde.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "multer": "^1.4.4"
+  }
+}
